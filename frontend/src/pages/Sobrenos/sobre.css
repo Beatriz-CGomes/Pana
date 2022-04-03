@@ -1,0 +1,37 @@
+
+
+
+.grupo {
+    background-color: var(--cor0);
+    margin: 0 auto;
+    width: 1200px;
+    border-radius: 0 0 0 80px;
+}
+
+.img-grupo {
+    width: 100%;
+    margin: 0;
+}
+
+h2 {
+    color: var(--cor3);
+    width: 1000px;
+    margin: 0 auto;
+  
+}
+
+p{
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+
+
+.fonte {
+    padding-top: 0;
+}
+
+.fonte:hover {
+    color: var(--cor3);
+    text-decoration: underline;
+}
